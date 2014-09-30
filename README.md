@@ -1,4 +1,5 @@
 osmit14_valsa
 =============
 
-Presentazione progetto Valsassina ad OSMit2014
+Presentazione stato del progetto "Il paesaggio culturale alpino su Wikipedia"  ad OSMit2014.  
+Slides create con [Big](https://github.com/tmcw/big).
